@@ -1,6 +1,8 @@
 WatchTower
 ===================
 
+[![javadoc](https://docstand.rocro.com/badges/github.com/rocro-user/WatchTower/documentation/javadoc?token=ATlYKyghG39NEBZ8aqaqwFW04MsQuDKoqqBTiOhf2UA&branch=master)](https://docstand.rocro.com/docs/github.com/rocro-user/WatchTower/branch/master/javadoc/)
+
 <p align="center">
     <img src="images/ic_launcher_web.png" alt="Web Launcher"/>
 </p>
